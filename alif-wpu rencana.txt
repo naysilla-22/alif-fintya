@@ -3,7 +3,7 @@
 - Fokus belajar setiap hari minimal 1-2 jam
   * Membuat jadwal belajar setiap hari
   * Mengerjakan tugas tepat waktu
-   ^ membeli buku seputar coding
+    ^ konsisten berlatih setiap minggu
 - belajar coding melalui internet
 - Kerjakan tugas tepat waktu
 - Mulai belajar skill tambahan (contoh: coding, desain, atau komunikasi)
